@@ -4,7 +4,7 @@
 
 A modern, interactive floating chat messenger built with Jetpack Compose, designed to enhance user communication within any Android app. This project showcases the use of Kotlin and Jetpack Compose to create a dynamic UI component that's both functional and visually appealing.
 
-![FloatingChatMessengerDemo](https://ezgif.com/video-to-gif/ezgif-4-ed243ef595.mp4)
+![FloatingChatMessengerDemo](https://github.com/khalidabdou/FloatingChatLikeMessenger/blob/master/ezgif-4-747434e927.gif?raw=true)
 
 ## Features
 
