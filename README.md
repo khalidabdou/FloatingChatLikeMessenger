@@ -8,6 +8,13 @@ A modern, interactive floating chat messenger built with Jetpack Compose, design
   <img src="https://github.com/khalidabdou/FloatingChatLikeMessenger/blob/master/ezgif-4-747434e927.gif?raw=true" width="300" alt="FloatingChatMessengerDemo">
 </p>
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/khalidabdou/FloatingChatLikeMessenger/master/floating.mp4">
+    <img src="https://path_to_your_image_placeholder.jpg" width="500" alt="Watch the Video">
+  </a>
+</p>
+
+
 
 ## Features
 
