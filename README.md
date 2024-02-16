@@ -26,4 +26,4 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_PROJECT_NAME>.git
+   [git clone https://github.com/khalidabdou/FloatingChatLikeMessenger.git](https://github.com/khalidabdou/FloatingChatLikeMessenger.git)
