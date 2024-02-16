@@ -9,7 +9,7 @@ A modern, interactive floating chat messenger built with Jetpack Compose, design
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/khalidabdou/FloatingChatLikeMessenger/master/floating.mp4">
+  <a href="https://raw.githubusercontent.com/khalidabdou/FloatingChatLikeMessenger/master/floating.gif">
     <img src="https://path_to_your_image_placeholder.jpg" width="500" alt="Watch the Video">
   </a>
 </p>
