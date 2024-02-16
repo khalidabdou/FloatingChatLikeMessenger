@@ -1,4 +1,4 @@
-# <YOUR_PROJECT_NAME>: Floating Chat Messenger in Jetpack Compose
+#  Floating Chat Messenger in Jetpack Compose
 
 ## About The Project
 
